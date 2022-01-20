@@ -18,3 +18,8 @@ pip install pygame
 Start game
 
 python3 ./life.py
+
+left mouse: create block
+Key "s": start or stop
+Key "c": clear
+Key "r": random (terminal input)
